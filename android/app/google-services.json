@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "547511482527",
+    "project_id": "food-panda-clone-app-c79f0",
+    "storage_bucket": "food-panda-clone-app-c79f0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:547511482527:android:f2e79cca628d887edb0aaa",
+        "android_client_info": {
+          "package_name": "com.hshd.foods_sellers_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "547511482527-e5dflmhusgnlbjhekdt3lrimankrvsnc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwYRiTx0C44F89r1xY0YGnOeIjevhyZ2w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "547511482527-e5dflmhusgnlbjhekdt3lrimankrvsnc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
